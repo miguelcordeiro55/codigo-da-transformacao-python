@@ -1,0 +1,4 @@
+# config.py
+
+OPENWEATHER_API_KEY = "SUA_CHAVE_AQUI"
+TMDB_API_KEY = "SUA_CHAVE_AQUI"   # opcional
